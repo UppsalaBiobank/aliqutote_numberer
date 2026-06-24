@@ -1,4 +1,4 @@
-# NAME:	FreezerPro_aliquote.rb
+# NAME:	FreezerPro_aliquot.rb
 # AUTHOR: Henrik Vestin Uppsala Biobank
 # DATE: 2026 06 24
 # HISTORY: 1.02
